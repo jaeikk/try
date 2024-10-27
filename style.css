@@ -1,0 +1,105 @@
+body {
+    background-image: url(back2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; /* Ensures the background covers the entire page without distortion */
+    background-position: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 485px;
+    
+}
+
+.image img {
+    border-radius: 50px;
+    margin-top: 90px;
+    margin-left: 150px
+}
+
+table {
+    margin 0;
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border: 1px solid white;
+    margin-top: -270px;
+    margin-right: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+th {
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+td {
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+}
+
+#music{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    box-shadow: 0 0 15px white;
+    border-radius: 10px;
+}
+
+#guitar{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    box-shadow: 0 0 15px white;
+    border-radius: 10px;
+}
+
+#gaming{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    box-shadow: 0 0 15px white;
+    border-radius: 10px;
+}
+
+#des1, #des2, #des3 {
+    font-size: 10px;
+    padding: 5px;
+}
+
+ p {
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    margin-left: 250px;
+ }
+
+.foods {
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 585px;
+    margin-top: 11px;
+}
+
+
+.goals {
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 770px;
+    margin-top: -82px;
+}
